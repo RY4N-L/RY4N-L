@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello there 👋
+Degree Apprentice currently learning Data Analysis at University
 
 <!--
 **RY4N-L/RY4N-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
