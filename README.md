@@ -1,6 +1,5 @@
-## Hello there 👋
-Degree Apprentice currently learning Data Analysis at University
-
+## Hey there 👋
+I am a Technology Degree Apprentice currently studying Data Analytics at University. I have experience in multiple languages - including Python, C# and SQL
 <!--
 **RY4N-L/RY4N-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
